@@ -7,7 +7,7 @@ patterns that fit naturally into a CES program.
 
 # license
 
-CESE is copyright (C) 2015  by David Ulrich.
+CESE is copyright (C) 2015 David Ulrich.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published

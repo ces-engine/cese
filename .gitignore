@@ -2,3 +2,5 @@
 *.o
 cese
 
+config/config.lua
+
